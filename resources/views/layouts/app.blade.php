@@ -12,7 +12,7 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.simpleWeather/3.1.0/jquery.simpleWeather.min.js"></script>
         <!-- Stylesheets -->
         <link rel="stylesheet" type="text/css" href="{{URL::asset('css/app.css')}}">
-        <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+     
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
 </head>
